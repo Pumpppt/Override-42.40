@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Override 42.40.vcxproj" Id="b21221a8-9368-40b8-9f85-041ef5759ea9" />
+  <Project Path="Override 42.40 Client.vcxproj" Id="c89b3914-cd2e-4240-8167-7d9c533bcf41" />
+</Solution>
